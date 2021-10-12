@@ -10,7 +10,7 @@ if operation == "+":
     print (a+b)
 elif operation == "-":
     print (a-b)
-elif operation == "*":
+elif operation == "*":cd
     print (a*b)
 elif operation == "/":
     print (a/b)
